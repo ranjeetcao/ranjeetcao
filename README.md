@@ -26,4 +26,5 @@ India · [Zupee](https://github.com/zupee-labs) · [LinkedIn](https://linkedin.c
 
 - LinkedIn — [linkedin.com/in/ranjeetcao](https://linkedin.com/in/ranjeetcao)
 - Stack Overflow — [ranjeetcao](https://stackoverflow.com/users/466608/ranjeetcao)
+- X (Twitter) — [@ranjeetcao](https://x.com/ranjeetcao)
 - Email — ranjeetcao@gmail.com
