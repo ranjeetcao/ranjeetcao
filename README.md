@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ranjeet Kumar
 
-<!--
-**ranjeetcao/ranjeetcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and platform engineer interested in reliable systems, developer tooling,
+and secure AI-assisted workflows.
 
-Here are some ideas to get you started:
+## Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [RCao Claw](https://github.com/ranjeetcao/rcao-claw) - Air-gapped AI development partner using Docker, Ollama, and a restricted SSH gateway.
+- [RCao Quiz](https://github.com/ranjeetcao/rcao-quiz) - Mobile quiz app with CDN-served content and AI-assisted review.
+
+## Open Source
+
+- Investigated an `ioredis` reconnect race involving `enableReadyCheck: false`,
+  with a proposed deterministic regression test:
+  [redis/ioredis#2099](https://github.com/redis/ioredis/issues/2099#issuecomment-4528007133)
+
+## Technologies
+
+`TypeScript` `Node.js` `Java` `Docker` `Redis` `System Design` `AI Tooling`
+
+## Connect
+
+- Stack Overflow: [ranjeetcao](https://stackoverflow.com/users/466608/ranjeetcao)
