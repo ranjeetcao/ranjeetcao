@@ -20,4 +20,6 @@ and secure AI-assisted workflows.
 
 ## Connect
 
+- LinkedIn: [linkedin.com/in/ranjeetcao](https://www.linkedin.com/in/ranjeetcao/)
 - Stack Overflow: [ranjeetcao](https://stackoverflow.com/users/466608/ranjeetcao)
+
