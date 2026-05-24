@@ -19,7 +19,12 @@ India · [Zupee](https://github.com/zupee-labs) · [LinkedIn](https://linkedin.c
 ## Tech I Work With
 
 - **Languages:** TypeScript · Node.js · Java
-- **Infra & Data:** Docker · Redis · Linux
+- **Infra:** AWS · Kubernetes (EKS) · Docker · Linux
+- **Databases:** MongoDB · PostgreSQL · MySQL · DynamoDB · ClickHouse · OpenSearch
+- **Cache:** Redis · Aerospike
+- **Messaging & Streaming:** Kafka · RabbitMQ · SQS · Kinesis · Redis Streams
+- **CI/CD:** Jenkins
+- **Observability:** Prometheus · Grafana · OpenTelemetry · SigNoz · New Relic
 - **Focus areas:** System design · Developer tooling · Secure AI-assisted workflows
 
 ## Connect
